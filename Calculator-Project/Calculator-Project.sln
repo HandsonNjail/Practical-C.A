@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Calculator-Project", "Calculator-Project\Calculator-Project.vbproj", "{C8DBA00F-E6EC-4046-A9CA-5C3962CEC30D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Electricity Bill Setup", "Electricity Bill Setup\Electricity Bill Setup.vdproj", "{5BC36E75-5185-4213-AF15-FD0A744C3E87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8DBA00F-E6EC-4046-A9CA-5C3962CEC30D}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DBA00F-E6EC-4046-A9CA-5C3962CEC30D}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{C8DBA00F-E6EC-4046-A9CA-5C3962CEC30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DBA00F-E6EC-4046-A9CA-5C3962CEC30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC36E75-5185-4213-AF15-FD0A744C3E87}.Debug|Any CPU.ActiveCfg = Release
+		{5BC36E75-5185-4213-AF15-FD0A744C3E87}.Debug|Any CPU.Build.0 = Release
+		{5BC36E75-5185-4213-AF15-FD0A744C3E87}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60353287-2072-4D52-89E8-249AB9292B11}
+	EndGlobalSection
+EndGlobal
